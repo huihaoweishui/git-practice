@@ -22,3 +22,5 @@ test test
 again dev
 
 okok
+
+我也疯了
